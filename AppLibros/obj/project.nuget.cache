@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "M+xr7e24CCH1lqRpb8U7JOAjerq31rYcuxkocsQEnAd/AjsNeSU1DJ3gCA2qCFFMfW9qYU3Za7KZBj2IF2LpOQ==",
+  "dgSpecHash": "fSTHPU8OKxKFKmRqidH9TMqEPCC/8v3TDZmskO+fBmuNOGUtSLVVq9BU3aRQD6ltIuTJZuehPNcITKCcCd4QDA==",
   "success": true,
   "projectFilePath": "/Users/tomasdziurdzia/Desktop/Cursos/NET/BlazorCourse/AppLibros/AppLibros/AppLibros.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.20/microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.20/microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/tomasdziurdzia/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
