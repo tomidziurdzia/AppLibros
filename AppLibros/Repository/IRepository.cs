@@ -13,5 +13,4 @@ public interface IRepository
     public Task<Libro> ActualizarLibro(int libroId, Libro actualizarLibro);
     
     public Task EliminarLibro(int libroId);
-
 }
