@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using AppLibros.Data;
+using AppLibros.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseNpgsql
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+
+// Se agrega como injeccion de dependencia el repositorio
+builder.Services.AddScoped<IRepository, Repository>();
 
 var app = builder.Build();
 
