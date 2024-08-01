@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlicm9zL0NyZWFyTGlicm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/tomasdziurdzia/Desktop/Cursos/NET/BlazorCourse/AppLibros/AppLibros/Pages/Libros/EditarLibro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlicm9zL0VkaXRhckxpYnJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/tomasdziurdzia/Desktop/Cursos/NET/BlazorCourse/AppLibros/AppLibros/Pages/Libros/ListaLibros.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlicm9zL0xpc3RhTGlicm9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
